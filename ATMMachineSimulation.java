@@ -1,5 +1,3 @@
-// Online Java Compiler (Editor)
-// Write and run Java online using this editor.
 import java.util.Scanner;
 class Main {
 public static double Currentbalance = 2500.75d;
