@@ -12,6 +12,8 @@ Display this menu repeatedly until Exit is selected:
 3. Withdraw
 4. Show Account Status
 5. Exit
+
+
 =======================
 Menu Options
 1. Check Balance
@@ -35,6 +37,8 @@ terminate the loop.
 Invalid Menu Choice
 ▪ If the user enters any option other than 1–5, display 'Invalid
 option.'
+
+
 ========================
 • Count successful deposit/withdrawal transactions and display the
 total when exiting.
